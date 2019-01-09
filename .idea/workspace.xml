@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a826478-db4f-402c-990f-690ded6e26dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/readReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/46002_Untitled_Report_20190108_172354_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/readTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/46002_Untitled_Report_20190108_172354_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/readReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/reportRead-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-readTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/readTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/readTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled folder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled folder.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/readReport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+            <state relative-caret-position="160">
+              <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -209,12 +187,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546986681583</updated>
       <workItem from="1546986682700" duration="2899000" />
-      <workItem from="1546993036004" duration="726000" />
+      <workItem from="1546993036004" duration="858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3625000" />
+    <option name="totallyTimeSpent" value="3757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="105" y="58" width="1335" height="723" extended-state="0" />
@@ -257,8 +235,8 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ImpLoadTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/readReport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="160">
+          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
