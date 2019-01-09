@@ -38,7 +38,7 @@ public class readReport {
 
             // Create an object of filereader
             // class with CSV file as a parameter.
-            FileReader filereader = new FileReader("/Users/poojad/DCM_Read/src/main/resources/46002_Untitled_Report_20190108_172354_0.csv");
+            FileReader filereader = new FileReader("src/main/resources/46002_Untitled_Report_20190108_172354_0.csv");
 
 
             // create csvReader object passing
